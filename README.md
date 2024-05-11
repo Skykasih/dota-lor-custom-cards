@@ -2,7 +2,7 @@
 Dota 2 Inspired Custom LoR (Legends of Runeterra) Cards by u/langitosaur
 
 ## Content 
-- **Champions** (Currently missing ~20/125)
+- **Champions** (Currently missing 1/125 - Ringmaster is not out yet)
 - **Supporting Cards** 
 - **Keywords explanation**
 
